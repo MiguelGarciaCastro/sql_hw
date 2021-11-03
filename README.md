@@ -4,6 +4,7 @@ App Demo file
 https://watch.screencastify.com/v/RJx7xNgZuxLlXgmeqxoi
 
 Installation
+
 Use the MySQL NPM package to connect to your MySQL database and perform queries.
 
 npm install
@@ -17,4 +18,5 @@ Use console.table to print MySQL rows to the console. There is a built-in versio
 npm install console.table --save
 
 Instructions
+
 Use console command [node server.js] to run application in terminal.
